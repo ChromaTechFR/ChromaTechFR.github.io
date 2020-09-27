@@ -80,4 +80,7 @@ a{
 		grid-column:  unset !important;
 		grid-row:  unset !important;
 	}
+	body{
+		overflow: visible;
+	}
 }
